@@ -1,0 +1,25 @@
+_repo: Parables-from-Flowers_27718
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27718-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Dyer, Gertrude P.
+    gutenberg_agent_id: '9072'
+    url: http://www.gutenberg.org/2009/agents/9072
+description: ''
+gutenberg_issued: '2009-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Parables'
+- !lcc 'PZ'
+title: Parables from Flowers
+url: http://www.gutenberg.org/ebooks/27718
